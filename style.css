@@ -6,8 +6,8 @@ body {
   line-height: 32px;
   color: #f2f2f2;
   background-color: #080208;
-  background-image: url("img/hero-bg.jpg");
-  background-repeat: no-repeat;
+  background-image: url("img/bg.jpg");
+  
   background-position: top center;
 }
 
@@ -107,11 +107,31 @@ body {
 }
 
 .skill-html {
-  background-image: url("img/icon-html.svg");
+  background-image: url("img/html-logo.png");
 }
 
 .skill-css {
-  background-image: url("img/icon-css.svg");
+  background-image: url("img/css-logo.png");
+}
+
+.skill-cpp {
+  background-image: url("img/cpp-logo.png");
+}
+
+.skill-js {
+  background-image: url("img/js-logo.png");
+}
+
+.skill-java {
+  background-image: url("img/java_logo.png");
+}
+
+.skill-python {
+  background-image: url("img/python-logo.png");
+}
+
+.skill-php {
+  background-image: url("img/php-logo.png");
 }
 
 .level {
